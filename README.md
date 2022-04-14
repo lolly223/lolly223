@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lolly223
 - 👀 I’m interested in Security in the Internet
 - 🌱 I’m currently learning in school
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on make the Internet safer
 - 📫 How to reach me 
 
 <!---
